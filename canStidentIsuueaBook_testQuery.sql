@@ -1,0 +1,1 @@
+﻿insert into Issued_books(Student_indeks, Book_id, Books_name, Issue_data) select '222', Books.Id, 'c++', 'data' from Books where Books.Title = 'c++';

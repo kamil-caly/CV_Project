@@ -1,4 +1,4 @@
-# wpf Library project
+# Library project - Windows Forms
 
 Simple Library app using sql:
 -login to app using login: admin, password: admin

@@ -1,4 +1,4 @@
-# CV_Project
+# wpf Library project
 
 Simple Library app using sql:
 -login to app using login: admin, password: admin
